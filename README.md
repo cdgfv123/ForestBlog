@@ -130,20 +130,6 @@ forest_blog.sql: 数据库文件，请先创建数据库，然后以运行sql文
 Github地址：https://github.com/saysky/ForestBlog
 （如果可以帮忙点一次Star和Fork）
  
-## 更新记录
-- 2021年02月25日
-- 第三次大更，修复部分Bug，新增用户注册、用户管理等功能
 
-- 2018年11月26日
-- 第二次大更，重新规范了代码，完善了注释
-
-- 2017年10月10日
-- 首次完整提交
-
-## 请喝一杯奶茶
-请我喝一杯奶茶吧！
-插条广告：博主最近有点时间，长期接毕设定制，软件定制，Java问题解决 <br/>
-具体查看[有偿服务](https://liuyanzhao.com/bulletin/my-service)  <br/>
-博主付费商品：[https://liuyanzhao.com/shop.html](https://liuyanzhao.com/shop.html)
 
 ![image](uploads/donate.png)
