@@ -125,11 +125,6 @@ forest_blog.sql: 数据库文件，请先创建数据库，然后以运行sql文
 
 如果不修改，会出现uploads的图片无法加载，无法显示上传目录的图片
 
- 
-## 下载地址：
-Github地址：https://github.com/saysky/ForestBlog
-（如果可以帮忙点一次Star和Fork）
- 
 
 
-![image](uploads/donate.png)
+
